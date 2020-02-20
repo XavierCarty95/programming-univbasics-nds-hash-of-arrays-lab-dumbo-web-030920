@@ -12,3 +12,5 @@ def add_character(show, name)
   BASE_HOA[show]
 
 end
+
+add_character(:jetsons , "The life")
