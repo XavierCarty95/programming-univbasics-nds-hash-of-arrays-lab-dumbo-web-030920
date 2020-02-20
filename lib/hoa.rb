@@ -13,4 +13,4 @@ def add_character(show, name)
 
 end
 
-add_character(:jetsons , "The life")
+
