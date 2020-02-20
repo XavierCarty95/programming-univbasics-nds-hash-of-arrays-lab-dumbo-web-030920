@@ -12,6 +12,3 @@ def add_character(show, name)
   BASE_HOA[show]
 
 end
-
-add_character("chimpmunks" , "The Best")
-print BASE_HOA
