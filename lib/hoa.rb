@@ -13,6 +13,5 @@ def add_character(show, name)
 
 end
 
-
-love = add_character("chimpmunks" , "The Best")
-print love
+add_character("chimpmunks" , "The Best")
+print BASE_HOA
