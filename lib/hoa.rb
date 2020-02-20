@@ -12,3 +12,6 @@ def add_character(show, name)
   BASE_HOA[show]
 
 end
+
+
+love = add_character("Xavier" , "The Best")
